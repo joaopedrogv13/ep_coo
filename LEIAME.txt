@@ -1,0 +1,7 @@
+Ian Tiozzo Brussolo - 13781883
+João Pedro Gonçalves Vilela - 13731070 
+
+Para compilar:
+javac Main.java
+java Main
+
